@@ -8,3 +8,10 @@ Originally the source code has been written in Matlab, as that was the only "lan
 
 __As I was a complete newbie in programming at that time, there were a lot of things I did not know about coding, so don't mind code repeating, bad names and other 
 code smell you might find in the source code.__
+
+Some screenshots:
+
+![1](./screenshots/1.png)
+![2](./screenshots/2.png)
+![3](./screenshots/3.png)
+![4](./screenshots/4.png)
